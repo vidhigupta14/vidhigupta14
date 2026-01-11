@@ -6,11 +6,28 @@
 ## Hi, I'm Vidhi 👋  
 UI/UX Designer • Frontend Developer • Engineering Student
 
-## 🌐 Socials
-🌸 <span style="color:#FFB6C1">[LinkedIn](https://linkedin.com/in/vidhigupta14)</span>  
-🎀 <span style="color:#FFB6C1">[Behance](https://behance.net/vidhigupta20)</span>  
-🦩 <span style="color:#FFB6C1">[Email](mailto:vidhigupta1202@gmail.com)</span>
+<div style="display: flex; align-items: center; justify-content: center; gap: 8px;">
+  🌸
+  <a href="https://linkedin.com/in/vidhigupta14">
+    <img src="assets/linkedin.svg" style="display: block;" />
+  </a>
+</div>
 
+<div style="display: flex; align-items: center; justify-content: center; gap: 8px;">
+  🎀
+  <a href="https://behance.net/vidhigupta20">
+    <img src="assets/behance.svg" style="display: block;" />
+  </a>
+</div>
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 8px;">
+  🦩
+  <a href="mailto:vidhigupta1202@gmail.com">
+    <img src="assets/email.svg" style="display: block;" />
+  </a>
+</div>
+
+<br>
 🦩 Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-EC4899?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-EC4899?style=for-the-badge&logo=css3&logoColor=white)
