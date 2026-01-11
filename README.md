@@ -28,6 +28,7 @@ UI/UX Designer • Frontend Developer • Engineering Student
 </div>
 
 <br>
+
 🦩 Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-EC4899?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-EC4899?style=for-the-badge&logo=css3&logoColor=white)
