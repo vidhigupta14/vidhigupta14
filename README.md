@@ -6,6 +6,10 @@
 ## Hi, I'm Vidhi 👋  
 UI/UX Designer • Frontend Developer • Engineering Student
 
+🌸 LinkedIn: https://linkedin.com/in/vidhigupta14  
+🎀 Behance: https://behance.net/vidhigupta20  
+🦩 Email: mailto:vidhigupta1202@gmail.com
+
 🦩 Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-EC4899?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-EC4899?style=for-the-badge&logo=css3&logoColor=white)
